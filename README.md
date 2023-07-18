@@ -1,4 +1,4 @@
-# proj3
+# WordleGPT Game
 
 A new Flutter project.
 
